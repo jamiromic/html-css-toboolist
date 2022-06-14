@@ -6,6 +6,9 @@
 
 }
 
+header{
+    background-color: white;
+}
 .title{
     display: inline-block;
     
@@ -20,9 +23,13 @@ body{
     background-color: white;
     max-width: 900px;
     padding: 20px;
-
 }
 
+nav{
+    border-bottom: 1px solid;
+    padding: 10px;
+    border-color: lightgrey;
+}
 button{
     font-size: 11px;
     padding: 4px;
