@@ -6,9 +6,70 @@
 
 }
 
+.title{
+    display: inline-block;
+    
+}
+
+body{
+    background-color: lightgrey;
+}
+
+.container{
+    margin: 0 auto;
+    background-color: white;
+    max-width: 900px;
+    padding: 20px;
+
+}
+
+button{
+    font-size: 11px;
+    padding: 4px;
+    border-radius: 10%;
+
+}
+
+#buttblue{
+    color: white;
+    background-color: lightskyblue;
+    border: none;
+}
+
+#buttgrey{
+    color: lightgrey;
+    background-color: white;
+    border-color: lightgrey;
+    border: 1px solid;
+}
+
+section{
+    line-height: 35px;
+}
+
 .color{
     font-size: 10px;
     color: white;
-    background-color: aqua;
     padding: 5px;
+    border-radius: 30%;
+}
+
+.blu{
+    background-color: blue;
+}
+
+.violet{
+    background-color: violet;
+}
+
+.green{
+    background-color: green;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.rose{
+    background-color: rosybrown;
 }
