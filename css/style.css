@@ -23,6 +23,8 @@ body{
     background-color: white;
     max-width: 900px;
     padding: 20px;
+    margin-top: 10px;
+    border-radius: 2%;
 }
 
 nav{
@@ -52,6 +54,11 @@ button{
 
 section{
     line-height: 35px;
+}
+
+p{
+    font-family: verdana;
+    font-size: 14px;
 }
 
 .color{
